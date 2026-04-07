@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:0d1b4b,60:1a0533,100:2d0a6e&height=230&section=header&text=Santosh%20Malannavar&fontSize=58&fontColor=e8d5ff&fontAlignY=42&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Generative%20AI&descAlignY=62&descSize=17&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E43D12,50:D6536D,100:EFB11D&height=220&section=header&text=Santosh%20Malannavar&fontSize=56&fontColor=EBE9E1&fontAlignY=42&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Generative%20AI&descAlignY=63&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=900&color=B388FF&center=true&vCenter=true&width=620&lines=Turning+raw+data+into+actionable+intelligence+%F0%9F%A7%A0;Building+AI+agents+that+think+and+reason+%F0%9F%A4%96;LLMs+%7C+RAG+%7C+Vector+Search+%7C+ML+Pipelines;Data+tells+a+story+%E2%80%94+I+make+sure+it%27s+heard.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3500&pause=900&color=E43D12&center=true&vCenter=true&width=640&lines=Turning+raw+data+into+actionable+intelligence+%F0%9F%A7%A0;Building+AI+agents+that+think+and+reason+%F0%9F%A4%96;LLMs+%7C+RAG+%7C+Vector+Search+%7C+ML+Pipelines;Data+tells+a+story+%E2%80%94+I+make+sure+it%27s+heard.)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,10 +16,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santoshrm-7b0647315/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santoshmalannavar500@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantoshRM-1)&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=SantoshRM-1&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E43D12?style=for-the-badge&logo=linkedin&logoColor=EBE9E1)](https://www.linkedin.com/in/santoshrm-7b0647315/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D6536D?style=for-the-badge&logo=gmail&logoColor=EBE9E1)](mailto:santoshmalannavar500@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-EFB11D?style=for-the-badge&logo=github&logoColor=1a1a1a)](https://github.com/SantoshRM-1)&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=SantoshRM-1&style=for-the-badge&color=FFA2B6&label=PROFILE+VIEWS)
 
 </div>
 
@@ -64,7 +64,7 @@ santosh = {
 <tr>
 <td align="center" width="22%">
 
-<img src="https://img.shields.io/badge/📊-Data%20Science-7C3AED?style=for-the-badge&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/📊%20Data%20Science-E43D12?style=for-the-badge&logoColor=EBE9E1"/>
 
 `Pandas` · `NumPy`  
 `EDA` · `Visualization`  
@@ -74,7 +74,7 @@ santosh = {
 </td>
 <td align="center" width="22%">
 
-<img src="https://img.shields.io/badge/🤖-Machine%20Learning-5B21B6?style=for-the-badge&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/🤖%20Machine%20Learning-D6536D?style=for-the-badge&logoColor=EBE9E1"/>
 
 `scikit-learn` · `XGBoost`  
 `Random Forest`  
@@ -84,7 +84,7 @@ santosh = {
 </td>
 <td align="center" width="22%">
 
-<img src="https://img.shields.io/badge/🧬-Generative%20AI-9333EA?style=for-the-badge&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/🧬%20Generative%20AI-FFA2B6?style=for-the-badge&logoColor=1a1a1a"/>
 
 `LangChain` · `RAG`  
 `FAISS Embeddings`  
@@ -94,7 +94,7 @@ santosh = {
 </td>
 <td align="center" width="22%">
 
-<img src="https://img.shields.io/badge/⚙️-Backend%20%26%20APIs-6D28D9?style=for-the-badge&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/⚙️%20Backend%20%26%20APIs-EFB11D?style=for-the-badge&logoColor=1a1a1a"/>
 
 `FastAPI` · `Flask`  
 `REST APIs` · `SQLite`  
@@ -117,47 +117,47 @@ santosh = {
 
 **— Languages —**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-E43D12?style=flat-square&logo=python&logoColor=EBE9E1)
+![SQL](https://img.shields.io/badge/SQL-D6536D?style=flat-square&logo=postgresql&logoColor=EBE9E1)
+![Java](https://img.shields.io/badge/Java-EFB11D?style=flat-square&logo=openjdk&logoColor=1a1a1a)
 
 <br/>
 
 **— Data Science & ML —**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-E43D12?style=flat-square&logo=pandas&logoColor=EBE9E1)
+![NumPy](https://img.shields.io/badge/NumPy-D6536D?style=flat-square&logo=numpy&logoColor=EBE9E1)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-EFB11D?style=flat-square&logo=scikit-learn&logoColor=1a1a1a)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-E43D12?style=flat-square&logo=tensorflow&logoColor=EBE9E1)
+![PyTorch](https://img.shields.io/badge/PyTorch-D6536D?style=flat-square&logo=pytorch&logoColor=EBE9E1)
+![XGBoost](https://img.shields.io/badge/XGBoost-FFA2B6?style=flat-square&logoColor=1a1a1a)
 
 <br/>
 
 **— Generative AI & LLMs —**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS%20Vector%20DB-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Systems-9333EA?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-E43D12?style=flat-square&logo=langchain&logoColor=EBE9E1)
+![FAISS](https://img.shields.io/badge/FAISS%20Vector%20DB-D6536D?style=flat-square&logo=meta&logoColor=EBE9E1)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-EFB11D?style=flat-square&logoColor=1a1a1a)
+![RAG](https://img.shields.io/badge/RAG%20Systems-FFA2B6?style=flat-square&logoColor=1a1a1a)
 
 <br/>
 
 **— Backend & Databases —**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-E43D12?style=flat-square&logo=fastapi&logoColor=EBE9E1)
+![Flask](https://img.shields.io/badge/Flask-D6536D?style=flat-square&logo=flask&logoColor=EBE9E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-EFB11D?style=flat-square&logo=mongodb&logoColor=1a1a1a)
+![SQLite](https://img.shields.io/badge/SQLite-FFA2B6?style=flat-square&logo=sqlite&logoColor=1a1a1a)
 
 <br/>
 
 **— Tools —**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E43D12?style=flat-square&logo=git&logoColor=EBE9E1)
+![Jupyter](https://img.shields.io/badge/Jupyter-EFB11D?style=flat-square&logo=jupyter&logoColor=1a1a1a)
+![Anaconda](https://img.shields.io/badge/Anaconda-D6536D?style=flat-square&logo=anaconda&logoColor=EBE9E1)
+![VS Code](https://img.shields.io/badge/VS%20Code-FFA2B6?style=flat-square&logo=visual-studio-code&logoColor=1a1a1a)
 
 </div>
 
@@ -169,16 +169,16 @@ santosh = {
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SantoshRM-1&show_icons=true&hide_border=true&rank_icon=percentile&bg_color=0d0d1a&title_color=B388FF&icon_color=9333EA&text_color=c4b5fd&ring_color=7C3AED" height="165"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SantoshRM-1&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=B388FF&text_color=c4b5fd&langs_count=6" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SantoshRM-1&show_icons=true&hide_border=true&rank_icon=percentile&bg_color=1a0a05&title_color=EFB11D&icon_color=E43D12&text_color=EBE9E1&ring_color=D6536D" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SantoshRM-1&layout=compact&hide_border=true&bg_color=1a0a05&title_color=EFB11D&text_color=EBE9E1&langs_count=6" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SantoshRM-1&hide_border=true&background=0d0d1a&ring=7C3AED&fire=9333EA&currStreakLabel=B388FF&sideLabels=c4b5fd&dates=8b8fad&stroke=7C3AED" height="145"/>
+<img src="https://streak-stats.demolab.com?user=SantoshRM-1&hide_border=true&background=1a0a05&ring=E43D12&fire=EFB11D&currStreakLabel=EFB11D&sideLabels=EBE9E1&dates=FFA2B6&stroke=D6536D" height="145"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SantoshRM-1&bg_color=0d0d1a&color=B388FF&line=7C3AED&point=e8d5ff&area=true&area_color=4c1d95&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SantoshRM-1&bg_color=1a0a05&color=EFB11D&line=E43D12&point=EBE9E1&area=true&area_color=D6536D&hide_border=true" width="95%"/>
 
 </div>
 
@@ -215,4 +215,4 @@ santosh = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2d0a6e,40:1a0533,70:0d1b4b,100:0a0a1a&height=140&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EFB11D,50:D6536D,100:E43D12&height=140&section=footer&animation=fadeIn" width="100%"/>
