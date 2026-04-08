@@ -51,8 +51,8 @@ class Santosh:
 
 <br/>
 
-> 🔭 Building end-to-end **ML pipelines**, **LLM-powered agents** & **data-driven systems** with real-world impact.  
-> I care deeply about clean data, meaningful features & models that **actually generalize** — not just score well on benchmarks.
+>    Building end-to-end **ML pipelines**, **LLM-powered agents** & **data-driven systems** with real-world impact.  
+>    I care deeply about clean data, meaningful features & models that **actually generalize** — not just score well on benchmarks.
 
 <br/>
 
