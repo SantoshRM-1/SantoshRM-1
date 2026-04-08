@@ -1,10 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f2027,70:1a3a4a,100:00d4aa&height=200&section=header&text=Santosh%20Malannavar&fontSize=52&fontColor=f0ede6&fontAlignY=45&desc=Data%20Science%20·%20Machine%20Learning%20·%20Generative%20AI&descAlignY=68&descSize=14&animation=fadeIn" width="100%"/>
-
-<br/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=900&color=00D4AA&center=true&vCenter=true&multiline=false&width=740&lines=ML+Engineer+—+building+models+that+actually+generalize+🧠;Data+Scientist+—+finding+signal+in+the+noise+📊;GenAI+Developer+—+LangChain+·+RAG+·+FAISS+🤖;From+raw+data+to+deployed+intelligence+🚀;DSCE+Bangalore+·+B.E.+ISE+·+Class+of+2027)](https://git.io/typing-svg)
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:1a3a4a,100:00d4aa&height=220&section=header&text=Santosh%20Malannavar&fontSize=58&fontColor=f0ede6&fontAlignY=40&desc=Data%20Science%20·%20Machine%20Learning%20·%20Generative%20AI&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -12,14 +9,20 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=00d4aa)](https://www.linkedin.com/in/santoshrm-7b0647315/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-%230d1117.svg?style=for-the-badge&logo=gmail&logoColor=f0ede6)](mailto:santoshmalannavar500@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%230d1117.svg?style=for-the-badge&logo=github&logoColor=f0b429)](https://github.com/SantoshRM-1)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=SantoshRM-1&style=for-the-badge&color=00d4aa&label=PROFILE+VIEWS)](https://github.com/SantoshRM-1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=900&color=00D4AA&center=true&vCenter=true&multiline=false&width=720&lines=ML+Engineer+—+building+models+that+generalize+🧠;Data+Scientist+—+finding+signal+in+the+noise+📊;GenAI+Developer+—+LangChain+·+RAG+·+FAISS+🤖;From+raw+data+to+deployed+intelligence+🚀)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=00d4aa)](https://www.linkedin.com/in/santoshrm-7b0647315/)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-0d1b2a?style=for-the-badge&logo=gmail&logoColor=f0ede6)](mailto:santoshmalannavar500@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=f0b429)](https://github.com/SantoshRM-1)&nbsp;&nbsp;
+![Views](https://komarev.com/ghpvc/?username=SantoshRM-1&style=for-the-badge&color=00d4aa&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
@@ -51,35 +54,61 @@ class Santosh:
 
 <br/>
 
->    Building end-to-end **ML pipelines**, **LLM-powered agents** & **data-driven systems** with real-world impact.  
->    I care deeply about clean data, meaningful features & models that **actually generalize** — not just score well on benchmarks.
+> 🔭 Building end-to-end **ML pipelines**, **LLM-powered agents** & **data-driven systems** with real-world impact.  
+> I care deeply about clean data, meaningful features & models that **actually generalize** — not just score well on benchmarks.
 
 <br/>
 
 ---
-
-<br/>
 
 ## ⬡ &nbsp;Core Expertise
 
 <br/>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center" width="25%" style="padding: 18px;">
 
-| 📊 **Data Science** | 🤖 **Machine Learning** | 🧬 **Generative AI** | ⚙️ **Backend & APIs** |
-|:---:|:---:|:---:|:---:|
-| `Pandas` `NumPy` | `scikit-learn` `XGBoost` | `LangChain` `RAG` | `FastAPI` `Flask` |
-| `EDA` `Visualization` | `Random Forest` | `FAISS Embeddings` | `REST` `SSE Streaming` |
-| `Feature Engineering` | `Model Eval & Tuning` | `Prompt Engineering` | `MongoDB` `SQLite` |
-| `Statistical Modelling` | `TensorFlow` `PyTorch` | `Multi-Agent Systems` | `JWT` `Cloudinary` |
+### 📊 Data Science
+`Pandas` · `NumPy`  
+`EDA` · `Visualization`  
+`Feature Engineering`  
+`Statistical Modelling`
 
-</div>
+</td>
+<td align="center" width="25%" style="padding: 18px;">
+
+### 🤖 Machine Learning
+`scikit-learn` · `XGBoost`  
+`Random Forest`  
+`Model Eval & Tuning`  
+`TensorFlow` · `PyTorch`
+
+</td>
+<td align="center" width="25%" style="padding: 18px;">
+
+### 🧬 Generative AI
+`LangChain` · `RAG`  
+`FAISS Embeddings`  
+`Prompt Engineering`  
+`Multi-Agent Systems`
+
+</td>
+<td align="center" width="25%" style="padding: 18px;">
+
+### ⚙️ Backend & APIs
+`FastAPI` · `Flask`  
+`REST` · `SSE Streaming`  
+`MongoDB` · `SQLite`  
+`JWT` · `Cloudinary`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ---
-
-<br/>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -87,54 +116,50 @@ class Santosh:
 
 <div align="center">
 
-**— Languages —**
+**Languages**
 
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)&nbsp;
-[![Java](https://skillicons.dev/icons?i=java)](https://java.com)&nbsp;
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
-
-<br/>
-
-**— Data Science & ML —**
-
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)&nbsp;
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)&nbsp;
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%230d1117?style=for-the-badge&logo=scikit-learn&logoColor=00d4aa)](https://scikit-learn.org)&nbsp;
-[![Pandas](https://img.shields.io/badge/Pandas-%230d1117?style=for-the-badge&logo=pandas&logoColor=00d4aa)](https://pandas.pydata.org)&nbsp;
-[![NumPy](https://img.shields.io/badge/NumPy-%230d1117?style=for-the-badge&logo=numpy&logoColor=00d4aa)](https://numpy.org)&nbsp;
-[![XGBoost](https://img.shields.io/badge/XGBoost-%230d1117?style=for-the-badge&logoColor=f0b429)](https://xgboost.readthedocs.io)
+![Python](https://img.shields.io/badge/Python-0d1b2a?style=flat-square&logo=python&logoColor=00d4aa)
+![SQL](https://img.shields.io/badge/SQL-0d1b2a?style=flat-square&logo=postgresql&logoColor=00d4aa)
+![Java](https://img.shields.io/badge/Java-0d1b2a?style=flat-square&logo=openjdk&logoColor=f0b429)
 
 <br/>
 
-**— Generative AI & LLMs —**
+**Data Science & ML**
 
-[![LangChain](https://img.shields.io/badge/LangChain-%230d1117?style=for-the-badge&logo=langchain&logoColor=00d4aa)](https://langchain.com)&nbsp;
-[![FAISS](https://img.shields.io/badge/FAISS_Vector_DB-%230d1117?style=for-the-badge&logo=meta&logoColor=00d4aa)](https://faiss.ai)&nbsp;
-[![RAG](https://img.shields.io/badge/RAG_Systems-%230d1117?style=for-the-badge&logoColor=f0b429)](https://github.com/SantoshRM-1)&nbsp;
-[![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-%230d1117?style=for-the-badge&logoColor=f0b429)](https://github.com/SantoshRM-1)&nbsp;
-[![Embeddings](https://img.shields.io/badge/Embeddings-%230d1117?style=for-the-badge&logoColor=00d4aa)](https://github.com/SantoshRM-1)
+![Pandas](https://img.shields.io/badge/Pandas-0d1b2a?style=flat-square&logo=pandas&logoColor=00d4aa)
+![NumPy](https://img.shields.io/badge/NumPy-0d1b2a?style=flat-square&logo=numpy&logoColor=00d4aa)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1b2a?style=flat-square&logo=scikit-learn&logoColor=f0b429)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1b2a?style=flat-square&logoColor=f0b429)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1b2a?style=flat-square&logo=tensorflow&logoColor=f0ede6)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1b2a?style=flat-square&logo=pytorch&logoColor=f0ede6)
 
 <br/>
 
-**— Backend & Tools —**
+**Generative AI & LLMs**
 
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)&nbsp;
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)&nbsp;
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)&nbsp;
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org)&nbsp;
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)&nbsp;
-[![Jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org)&nbsp;
-[![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://anaconda.com)&nbsp;
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+![LangChain](https://img.shields.io/badge/LangChain-0d1b2a?style=flat-square&logo=langchain&logoColor=00d4aa)
+![FAISS](https://img.shields.io/badge/FAISS_Vector_DB-0d1b2a?style=flat-square&logo=meta&logoColor=00d4aa)
+![RAG](https://img.shields.io/badge/RAG_Systems-0d1b2a?style=flat-square&logoColor=f0b429)
+![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-0d1b2a?style=flat-square&logoColor=f0b429)
+![Embeddings](https://img.shields.io/badge/Embeddings-0d1b2a?style=flat-square&logoColor=00d4aa)
+
+<br/>
+
+**Backend & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1b2a?style=flat-square&logo=fastapi&logoColor=00d4aa)
+![Flask](https://img.shields.io/badge/Flask-0d1b2a?style=flat-square&logo=flask&logoColor=f0ede6)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1b2a?style=flat-square&logo=mongodb&logoColor=f0b429)
+![SQLite](https://img.shields.io/badge/SQLite-0d1b2a?style=flat-square&logo=sqlite&logoColor=f0ede6)
+![Git](https://img.shields.io/badge/Git-0d1b2a?style=flat-square&logo=git&logoColor=f0ede6)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1b2a?style=flat-square&logo=jupyter&logoColor=f0b429)
+![Anaconda](https://img.shields.io/badge/Anaconda-0d1b2a?style=flat-square&logo=anaconda&logoColor=00d4aa)
 
 </div>
 
 <br/>
 
 ---
-
-<br/>
 
 ## 📈 &nbsp;GitHub Stats
 
@@ -142,53 +167,23 @@ class Santosh:
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SantoshRM-1&show_icons=true&hide_border=true&rank_icon=percentile&bg_color=0d1117&title_color=00d4aa&icon_color=f0b429&text_color=c9d8e6&ring_color=00d4aa" height="175"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SantoshRM-1&show_icons=true&hide_border=true&rank_icon=percentile&bg_color=0d1117&title_color=00d4aa&icon_color=f0b429&text_color=c9d8e6&ring_color=00d4aa" height="172"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SantoshRM-1&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d8e6&langs_count=6" height="175"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SantoshRM-1&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d8e6&langs_count=6" height="172"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=SantoshRM-1&hide_border=true&background=0d1117&ring=00d4aa&fire=f0b429&currStreakLabel=00d4aa&sideLabels=c9d8e6&dates=8899aa&stroke=1a3a4a" height="155"/>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=SantoshRM-1&hide_border=true&background=0d1117&ring=00d4aa&fire=f0b429&currStreakLabel=00d4aa&sideLabels=c9d8e6&dates=8899aa&stroke=1a3a4a&currStreakNum=f0ede6&sideNums=f0ede6" width="55%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SantoshRM-1&bg_color=0d1117&color=00d4aa&line=1a3a4a&point=f0b429&area=true&area_color=0f2027&hide_border=true&custom_title=Contribution%20Graph" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SantoshRM-1&bg_color=0d1117&color=00d4aa&line=1a3a4a&point=f0b429&area=true&area_color=1a3a4a&hide_border=true" width="96%"/>
 
 </div>
 
 <br/>
 
 ---
-
-<br/>
-
-## 🐍 &nbsp;Contribution Snake
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SantoshRM-1/SantoshRM-1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SantoshRM-1/SantoshRM-1/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SantoshRM-1/SantoshRM-1/output/github-snake-dark.svg" width="97%"/>
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<br/>
 
 ## 🔬 &nbsp;Currently Exploring
 
@@ -199,14 +194,12 @@ class Santosh:
   02 ▸  LLM fine-tuning & evaluation — LoRA · RLHF · ORPO
   03 ▸  Time-series forecasting with deep learning — LSTM · Transformers
   04 ▸  DSA — LeetCode & Codeforces (consistency over intensity)
-  05 ▸  CS Foundations — OS · DBMS · Computer Networks
+  05 ▸  OS · DBMS · CN — building unshakeable CS foundations
 ```
 
 <br/>
 
 ---
-
-<br/>
 
 <div align="center">
 
@@ -214,9 +207,9 @@ class Santosh:
 
 <br/><br/>
 
-`◈  OPEN TO OPPORTUNITIES  ·  BENGALURU, IN  ·  2027`
+`◈  OPEN TO OPPORTUNITIES  ·  BENGALURU, IN`
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,40:1a3a4a,80:0f2027,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%"/>
 
